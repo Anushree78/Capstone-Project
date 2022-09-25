@@ -1,2 +1,2 @@
-# Cpastone-Project
+# Capstone-Project
 Hotel Booking Analysis
